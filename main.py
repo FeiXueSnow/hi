@@ -25,3 +25,5 @@ def drawString(dstring):
 
 draw_string = "Lives: " + str(lives) + " Points: " + str(points)
 drawString(draw_string)
+
+#HiHello
